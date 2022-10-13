@@ -1,4 +1,4 @@
-# technical-recuiter
+# LinkedIn DB for HR
 I am Software Engineer and I know, to work as a technical recruiter (HR) is not an easy thing to do. You have to go through thousands of profiles on LinkedIn, filter them all out, then filter them more according to required experience and so on. Sometimes it can become time-consuming and tedious, which means that you lose good candidates.
 
 To all my HR Family, I have some good tool which can really help you to find good candidate on LinkedIn
